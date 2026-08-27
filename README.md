@@ -1,2 +1,8 @@
 # Craftenstein
-Craftenstein 3D — an ultra-lightweight retro 3D sandbox project optimized for vintage hardware (Windows XP and Windows Mobile 2003). Inspired by core sandbox mechanics, it features custom pixel graphics and unique characters from the Sharkov Band universe
+# main
+Craftenstein 3D is a lightweight, standalone 3D sandbox block-building game built from the ground up to support legacy, low-spec computing environments. Inspired by the classic mechanics of Minecraft and early 3D engines, this project brings creative building and custom mob spawning to vintage hardware including Windows XP desktops and Windows Mobile 2003 pocket PCs.To ensure complete legal compliance and safe open-source distribution, this repository contains 100% custom assets. All original developer textures have been replaced with unique pixel art, and the default enemy mobs feature exclusive characters inspired by the Sharkov Band universe.
+Key FeaturesRetro Engine: Fast raycasting-style 3D presentation optimized for devices with extremely limited RAM and weak processors.Creative Mode Sandbox: Infinite blocks (Dirt, Cobblestone, and more) allowing you to build and break structures smoothly on old tech.Mob Spawning: Spawn and interact with custom pixel-art entity sprites from Sharkov Band replacing traditional fantasy monsters.Tool Equipping: Active inventory feedback including styled retro weapons (like the custom pixelated sword).Zero Dependencies: Runs standalone without complex modern frameworks, heavy runtime environments, or updated SSL/TLS web requirements.
+ Target PlatformsDesktop: Windows XP / Windows Vista / Windows 7 (x86/x64)Mobile: Pocket PC / Windows Mobile 2003 / Windows Mobile 6.x
+## License
+The source code of this project is licensed under the GPL License. 
+However, all visual assets, textures, and "Sharkov Band" character designs are proprietary and cannot be reused in other commercial projects without explicit permission.
